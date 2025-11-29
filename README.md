@@ -60,6 +60,6 @@ pip install opencv-python numpy pyrealsense2
 
 ### 3. Usage
 ```
-cd yolo
+cd codes
 python predict.py
 ```
