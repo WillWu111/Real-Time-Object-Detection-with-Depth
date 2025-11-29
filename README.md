@@ -6,7 +6,10 @@ Real-time object detection and 3D coordinate extraction using **YOLOv5** and **I
 
 ## Example
 
-![Example Detection](./assets/example.png)
+![Example Detection](./assets/example_with_count.png)
+
+---
+![Example Detection](./assets/example_with_depth.png)
 
 ---
 
